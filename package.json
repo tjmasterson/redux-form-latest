@@ -3,14 +3,14 @@
   "_id": "redux-form@6.8.0",
   "_inBundle": false,
   "_integrity": "sha512-rISN+EERGB8nAS/LDnOSQaTf0f+QreXEq+7pRVvBFzmH5vIsYRwVpBtYA8UsibGzO+0BL1bl5L5bxdrNwxI+sA==",
-  "_location": "/redux-form",
+  "_location": "/redux-form-latest",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
     "raw": "redux-form@6.8.0",
-    "name": "redux-form",
-    "escapedName": "redux-form",
+    "name": "redux-form-latest",
+    "escapedName": "redux-form-latest",
     "rawSpec": "6.8.0",
     "saveSpec": null,
     "fetchSpec": "6.8.0"
