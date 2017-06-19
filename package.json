@@ -111,7 +111,7 @@
   "license": "MIT",
   "main": "./lib/index.js",
   "module": "./es/index.js",
-  "name": "redux-form",
+  "name": "redux-form-latest",
   "npmFileMap": [
     {
       "basePath": "/dist/",
@@ -120,7 +120,7 @@
       ]
     }
   ],
-  "npmName": "redux-form",
+  "npmName": "redux-form-latest",
   "nyc": {
     "include": [
       "src/**/*.js"
